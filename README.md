@@ -1,4 +1,4 @@
-2303A52037
+# 2303A52037
 
 - 👋 Hi, I’m @Mahesh-ch06
 - 👀 I’m interested in Data Structures and Algorithms (DSA), particularly in optimizing search algorithms and understanding complex data structures.
