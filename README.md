@@ -12,7 +12,7 @@
 5.  [Lab 05](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/Assignment5.ipynb):  Intro to python libraries - Numpy
 6.  [Lab 06](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/Stml__Assigment_6.ipynb):  Intro to python libraries - Numpy
 7.  [Lab 07](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/stml_7.ipynb):  Intro to python libraries - Numpy
-8.  [Lab 08](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/stml_8.ipynb):  Intro to python libraries - Numpy
+8.  [Lab 08](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/Stml_8.ipynb):  Intro to python libraries - Numpy
 9.  [Lab 09](https://github.com/Mahesh-ch06/2024-STATML_Assignments/blob/main/stml_9.ipynb):  Intro to python libraries - Numpy
 
 
